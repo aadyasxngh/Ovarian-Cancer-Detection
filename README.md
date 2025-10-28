@@ -10,7 +10,7 @@ It also integrates Explainable AI (XAI) techniques to provide better interpretab
 
 The project contains the following files:  
 
-- **enhancedInceptionV3.py** → Enhanced InceptionV3 architecture  
+- **enhancedinceptionv3.py** → Enhanced InceptionV3 architecture  
 - **inceptionv3.py** → Standard InceptionV3 implementation  
 - **inceptionv3_pruning20.py** → InceptionV3 with 20% pruning  
 - **inceptionv3_pruning30.py** → InceptionV3 with 30% pruning  
